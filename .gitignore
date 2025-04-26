@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Archivos creados en la sesion2 en vivo :D
+logs/
+claves.txt
